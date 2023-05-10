@@ -1,21 +1,22 @@
-title: Hanlin Cai
-# tagline: Two roads diverged in woods, I took the one less traveled by.
-description: Two roads diverged in woods, I took the one less traveled by.
+title: zhuangzhuang wang
+# tagline: Technology Changes Life, Learning Changes Yourself
+description: Technology Changes Life, Learning Changes Yourself
 #Comment out url when working locally to resolve base urls correctly
-url: https://caihanlin.com
+url: https://technology1521.github.io/Technology.com/
 
 # Owner/author information
 owner:
-  name: Hanlin Cai
-  avatar: hanlin.jpg
+  name: zhuangzhuang wang
+  avatar: zhuangzhuang.jpg
 #  bio:
-  email: hanlin.cai@ieee.org
+  email: technology1521@163.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: lancecai2002
+  # twitter: lancecai2002
   # facebook: caihanlin2002
-  github: GuangLun2000
-  linkedin: hanlin-cai-07b53b23b
-  scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
+  github: technology1521
+  csdn blog: https://blog.csdn.net/qq_42704442?type=blog 
+  # linkedin: hanlin-cai-07b53b23b
+  # scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
   # instagram: lancecai2002
   # lastfm:
   # tumblr:
@@ -34,19 +35,21 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 links:
   - title: About Me
     url: /
-  - title: Publications
-    url: /publications/
-  - title: Projects
-    url: /projects/
-  - title: Awards
-    url: /awards/
-  - title: Hobbies
-    url: /hobbies/
+  - title: python
+    url: /python/
+  - title: go
+    url: /go/
+  - title: c
+    url: /c/
+  - title: kuernetes
+    url: /kuernetes/
+  - title: linux
+    url: /linux/
   - title: Blogs
     url: /blogs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: China/Beijing
+timezone: China/HangZhou
 future: true
 highlighter: rouge
 # markdown: kramdown
@@ -75,7 +78,7 @@ kramdown:
 
 # disqus settings:
 disqus:
-  shortname: lancecai
+  shortname: zhuangzhuangwang
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
